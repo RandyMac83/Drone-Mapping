@@ -13,4 +13,5 @@ Once fed the appropriate file(s) this software will be able process all of the p
 This matrix will then bew used to analyze and compare the data later, as well as, used to create a 3D map, a 2D map or both
 using MatLab. This will allow for the user to visually compare multiple data sets and for the software to perform a more accurate 
 analysis of the data.
-above I have the README.txt that will better explain how to properly run this software.
+Above includes sample data that i collected for this project. This may allow for you to see how this software is supposed to function.
+Above I have the README.txt that will better explain how to properly run this software.
