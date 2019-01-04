@@ -18,3 +18,5 @@ Above includes sample data that I collected for this project. This may allow for
 Above I have the README.txt that will better explain how to properly run this software.
 </br></br>
 <b>*Note to reduce download size don't download my sample data it is several GBs in size. All supplemental .xyz and .txt files are located on my google drive because they were too large to upload here. Link below.<b>
+</br>  
+https://drive.google.com/file/d/1fxHMP--NKm7qH1dPjrfcKtRF7IBpGmSE/view?usp=sharing
