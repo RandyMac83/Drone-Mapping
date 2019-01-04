@@ -1,8 +1,7 @@
 # Drone-Mapping
 This software takes x amount of data points collected by some mapping tool (in this case a drone). 
 All points are read in from a .xyz file in the following format:
-</br>
-</br>
+</br></br>
 1.1,1.1,0.3
 </br>
 1.1,1.5,0.6
@@ -17,5 +16,5 @@ analysis of the data.
 </br></br>
 Above includes sample data that I collected for this project. This may allow for you to see how this software is supposed to function.
 Above I have the README.txt that will better explain how to properly run this software.
-</br>
+</br></br>
 <b>*Note to reduce download size don't download my sample data it is several GBs in size.<b>
