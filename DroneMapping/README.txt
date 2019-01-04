@@ -1,12 +1,12 @@
 ********************************************************************************************
 All software should be run by double clicking it or through the terminal (use python to run)
 ********************************************************************************************
-*****NOTE***************************************************************************************************************************************************
+*****NOTE***********************************************************************************************************************
 All processed files are present in their associated directories. If you wish to run my software make sure to delete all files in the following directories:
 	3D Maps
 	3D Maps(resized)
 	Do Nothing
-************************************************************************************************************************************************************
+********************************************************************************************************************************
 
 Explination of directories:
 	Do Nothing - Contains the latitudes, longitudes, and matrices when my software does not solve for any missing data
