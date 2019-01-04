@@ -17,4 +17,4 @@ analysis of the data.
 Above includes sample data that I collected for this project. This may allow for you to see how this software is supposed to function.
 Above I have the README.txt that will better explain how to properly run this software.
 </br></br>
-<b>*Note to reduce download size don't download my sample data it is several GBs in size.<b>
+<b>*Note to reduce download size don't download my sample data it is several GBs in size. All supplemental .xyz and .txt files are located on my google drive because they were too large to upload here. Link below.<b>
